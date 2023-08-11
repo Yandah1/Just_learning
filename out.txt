@@ -1,0 +1,8 @@
+total 16
+-rw-r--r-- 1 nonkuu nonkuu 13 Jun 10 12:07 README.md
+-rw-r--r-- 1 nonkuu nonkuu  6 Jun 11 05:03 abc.txt
+-rw-r--r-- 1 nonkuu nonkuu  0 Jun 11 05:22 out.txt
+-rw-r--r-- 1 nonkuu nonkuu  0 Jun 11 05:14 readme.txt
+-rw-r--r-- 1 nonkuu nonkuu  0 Jun 10 12:08 ready_yandah
+-rw-r--r-- 1 nonkuu nonkuu 39 Jun 10 12:10 std.txt
+-rw-r--r-- 1 nonkuu nonkuu 16 Jun 10 13:53 yandah
